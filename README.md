@@ -10,3 +10,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 ## Hobbies
 - Dancing: ...
+As I continue my journey in full-stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+## Languages
+- 🇺🇸
+- 🇫🇷
