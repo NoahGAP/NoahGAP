@@ -14,3 +14,5 @@ As I continue my journey in full-stack development, I am always on the lookout f
 ## Languages
 - 🇺🇸
 - 🇫🇷
+As I continue my journey in full-stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+
